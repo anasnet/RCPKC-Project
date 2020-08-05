@@ -1,0 +1,5 @@
+﻿  RCPKC.cpp
+d:\onedrive - ptuk.edu.ps\research\rcpkc speed\ntl\rcpkc\rcpkc\rcpkc.cpp(26): warning C4101: 'ft': unreferenced local variable
+d:\onedrive - ptuk.edu.ps\research\rcpkc speed\ntl\rcpkc\rcpkc\rcpkc.cpp(26): warning C4101: 'st': unreferenced local variable
+  RCPKC.vcxproj -> D:\OneDrive - ptuk.edu.ps\Research\RCPKC Speed\NTL\RCPKC\src\Debug\RCPKC.exe
+  RCPKC.vcxproj -> D:\OneDrive - ptuk.edu.ps\Research\RCPKC Speed\NTL\RCPKC\src\Debug\RCPKC.pdb (Full PDB)
